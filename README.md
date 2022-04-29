@@ -1,4 +1,4 @@
-# Association-Rule-Mining
+# Association-Rule-Mining-Algorithm
 
 Instructions to run on local computer
 
