@@ -1,0 +1,6 @@
+1. User Input:
+
+Support=0.5
+Confidence=0.5
+
+2. Rules:
